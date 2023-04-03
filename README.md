@@ -1,2 +1,2 @@
-# Lab-evaluation-Capstone
+# Javascript Code snippets
 Codes for checking Git commands
